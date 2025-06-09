@@ -48,7 +48,7 @@ import skorch.utils as sk_utils
 
 # For inline plotting in Jupyter notebooks
 #%matplotlib inline
-
+# adding a testing comment to test git
 # Thread allocation for BLAS backends
 env_threads = {
     "OMP_NUM_THREADS": "28",
