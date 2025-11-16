@@ -1,5 +1,6 @@
-# NUS-FYP
+# NUS Computer Engineering FYP
 Machine Learning Approach to Network Cyber Security
-# NUS-FYP
 
-Datasets from CICIDS2017, KDDTest, KDDTrain and UNSW-NB15
+
+# Datasets
+CICIDS2017, KDDTest, KDDTrain and UNSW-NB15
