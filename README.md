@@ -2,5 +2,5 @@
 Machine Learning Approach to Network Cyber Security
 
 
-# Datasets
+# Datasets used (not in repo)
 CICIDS2017, KDDTest, KDDTrain and UNSW-NB15
